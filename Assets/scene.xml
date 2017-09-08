@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:862555a6c1e0e4d92ec4517dc603c767:c3f5d170ad7eefbdc79f4e130c39e100:769e317bc8e88f352be08a2402ae2749$ -->
+<TextureAtlas imagePath="scene.png">
+    <SubTexture name="bosplataforma1" x="2" y="2" width="226" height="86"/>
+    <SubTexture name="bosplataforma2" x="1028" y="306" width="440" height="170"/>
+    <SubTexture name="bosqsuerto" x="2" y="742" width="1024" height="315"/>
+    <SubTexture name="desiplataforma" x="2" y="478" width="278" height="188"/>
+    <SubTexture name="desisuelo" x="2" y="306" width="1024" height="125"/>
+    <SubTexture name="dinoTitulo" x="1001" y="478" width="182" height="262"/>
+    <SubTexture name="liana1" x="282" y="478" width="717" height="218"/>
+    <SubTexture name="liana2" x="1284" y="1188" width="14" height="769"/>
+    <SubTexture name="life 0 hits" x="311" y="95" width="307" height="91"/>
+    <SubTexture name="life 1 hits" x="230" y="2" width="307" height="91"/>
+    <SubTexture name="life 2 hits" x="539" y="2" width="307" height="91"/>
+    <SubTexture name="life 3 hits" x="620" y="95" width="307" height="91"/>
+    <SubTexture name="life 4 hits" x="848" y="2" width="307" height="91"/>
+    <SubTexture name="life 5 hits" x="1157" y="2" width="307" height="91"/>
+    <SubTexture name="life 6 hits" x="2" y="95" width="307" height="91"/>
+    <SubTexture name="montplataformaderecha" x="2" y="1188" width="257" height="482"/>
+    <SubTexture name="montplataformaizqu" x="1028" y="742" width="282" height="444"/>
+    <SubTexture name="montsuelo" x="2" y="191" width="1024" height="100"/>
+    <SubTexture name="piedraTitulo" x="644" y="1188" width="638" height="585"/>
+    <SubTexture name="pjTitulo" x="261" y="1188" width="381" height="527"/>
+    <SubTexture name="pjmap" x="929" y="95" width="55" height="94"/>
+    <SubTexture name="pteroTitulo" x="1028" y="191" width="246" height="113"/>
+</TextureAtlas>
